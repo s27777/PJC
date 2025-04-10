@@ -1,8 +1,8 @@
 #include <iostream>
+#include <SFML/Graphics.hpp>
 
 int main()
 {
-  std::cout << "asdfasdf" << std::endl;
-  std::cout << "print something else" << std::endl;
+  ;
   return 0;
 }
